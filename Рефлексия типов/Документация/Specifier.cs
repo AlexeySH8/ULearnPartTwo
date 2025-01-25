@@ -178,5 +178,5 @@ namespace Documentation
         }
     }
 
-    // Поздравляю с окончанием курса 25.01.2025 <3
+    // Congratulations on completing the course 25.01.2025 <3
 }
